@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3266ca17-2f46-46ad-9cf3-a649c287feb0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../IfKeywordAndCodeBlocks/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Methods/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IfKeywordAndCodeBlocks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IfKeywordAndCodeBlocks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Operators/com/ERAlbertus/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Operators/com/ERAlbertus/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StatementsWhiteSpaceAndIndenting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StatementsWhiteSpaceAndIndenting/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +40,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1869" />
+    <option name="x" value="1868" />
     <option name="y" value="1056" />
     <option name="width" value="1390" />
     <option name="height" value="993" />
@@ -101,7 +96,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1869" y="1056" width="1390" height="993" extended-state="0" />
+    <frame x="1868" y="1056" width="1390" height="993" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
