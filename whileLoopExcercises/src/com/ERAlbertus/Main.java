@@ -204,7 +204,7 @@ public class Main {
 
     public static int reverse (int number){
         //this should be revised
-        
+
         String numString = "";
         while(number > 0){
             int digit = number % 10;
