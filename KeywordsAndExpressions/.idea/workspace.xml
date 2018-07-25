@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="732ebeef-67e0-499b-9ee6-2258e5fd6568" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../MinAndMaxInputChallenge/MinAndMaxInputChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/ReadingUserInputChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes/Classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes/src/com/ERAlbertus/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructors/Constructors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Constructors/src/com/ERAlbertus/BankAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ParsingValuesFromString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParsingValuesFromString/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../moreCodingExcercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../moreCodingExcercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../moreCodingExcercises/out/production/moreCodingExcercises/com/ERAlbertus/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../moreCodingExcercises/out/production/moreCodingExcercises/com/ERAlbertus/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../moreCodingExcercises/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../moreCodingExcercises/src/com/ERAlbertus/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../whileLoopExcercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../whileLoopExcercises/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinAndMaxInputChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinAndMaxInputChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInput/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInput/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
