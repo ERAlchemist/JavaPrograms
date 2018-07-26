@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="272d2abb-da00-4f16-a105-bd8f812f8edc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Constructors/Constructors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Constructors/src/com/ERAlbertus/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Constructors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Constructors/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Constructors/src/com/ERAlbertus/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Constructors/src/com/ERAlbertus/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Constructors/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Constructors/src/com/ERAlbertus/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MinAndMaxInputChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinAndMaxInputChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReadingUserInput/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInput/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
