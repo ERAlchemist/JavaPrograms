@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="732ebeef-67e0-499b-9ee6-2258e5fd6568" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Constructors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Constructors/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Constructors/src/com/ERAlbertus/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Constructors/src/com/ERAlbertus/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Constructors/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Constructors/src/com/ERAlbertus/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="732ebeef-67e0-499b-9ee6-2258e5fd6568" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,8 +46,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -94,7 +89,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1868" y="1056" width="1390" height="993" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -149,6 +143,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
