@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acdbf891-1428-4ee4-b2fa-e146e5ee2a64" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Composition/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/ERAlbertus/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/ERAlbertus/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/ERAlbertus/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/ERAlbertus/Couch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/ERAlbertus/Dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/ERAlbertus/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/ERAlbertus/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/ERAlbertus/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/ERAlbertus/Resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/ERAlbertus/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composition/src/com/ERAlbertus/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/EnhancedPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Constructors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Constructors/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
