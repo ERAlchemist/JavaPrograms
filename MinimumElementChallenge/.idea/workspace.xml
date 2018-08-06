@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="990f81d8-8193-4411-b1c6-0eb8dd1e3696" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MinimumElementChallenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MinimumElementChallenge/MinimumElementChallenge.iml" afterDir="false" />
+    <list default="true" id="abcfb75b-456b-4484-b6d1-eb5a1c5a8212" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinimumElementChallenge.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ReverseArrayChallenge/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ReverseArrayChallenge/ReverseArrayChallenge.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OOPTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReferenceAndValueTypes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReferenceAndValueTypes/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-702456438">
+    <session id="-1207750356">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.0" value="1" />
@@ -29,12 +29,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="797" />
+          <entry key="java" value="621" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="797" />
+          <entry key="JAVA" value="621" />
         </counts>
       </usages-collector>
     </session>
@@ -44,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+            <state relative-caret-position="360">
+              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2282" />
+    <option name="x" value="1994" />
     <option name="y" value="906" />
     <option name="width" value="1390" />
     <option name="height" value="1254" />
@@ -74,9 +74,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -94,7 +94,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ERAlbertus.Main" />
-      <module name="ReferenceAndValueTypes" />
+      <module name="MinimumElementChallenge" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -113,16 +113,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="990f81d8-8193-4411-b1c6-0eb8dd1e3696" name="Default Changelist" comment="" />
-      <created>1533272675594</created>
+      <changelist id="abcfb75b-456b-4484-b6d1-eb5a1c5a8212" name="Default Changelist" comment="" />
+      <created>1533531477523</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1533272675594</updated>
+      <updated>1533531477523</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2282" y="906" width="1390" height="1254" extended-state="0" />
+    <frame x="1994" y="906" width="1390" height="1254" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -131,7 +131,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32979664" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -155,8 +155,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+        <state relative-caret-position="360">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
         </state>
       </provider>
     </entry>

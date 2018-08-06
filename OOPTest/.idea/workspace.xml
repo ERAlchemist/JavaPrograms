@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3d6f954-c3dd-4e6f-9fce-ad0750cde2af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ReferenceAndValueTypes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinimumElementChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinimumElementChallenge/MinimumElementChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReverseArrayChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReverseArrayChallenge/ReverseArrayChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReferenceAndValueTypes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReferenceAndValueTypes/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
