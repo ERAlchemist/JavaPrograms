@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d81b10dd-26b1-4c40-b9c7-ffadc7b263ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge/ArrayListChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/ERAlbertus/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListAndArrayList/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListAndArrayList/ListAndArrayList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ListAndArrayList/src/com/ERAlbertus/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/AutoboxingAndUnboxing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/AutoboxingAndUnboxingChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/src/com/ERAlbertus/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/src/com/ERAlbertus/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/src/com/ERAlbertus/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MinimumElementChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinimumElementChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReferenceAndValueTypes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReferenceAndValueTypes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -127,6 +127,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1994" y="906" width="1390" height="1254" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
