@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d81b10dd-26b1-4c40-b9c7-ffadc7b263ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../InterfaceChallenge/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InterfaceChallenge/InterfaceChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InterfaceChallenge/src/com/ERAlbertus/ISaveable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InterfaceChallenge/src/com/ERAlbertus/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InterfaceChallenge/src/com/ERAlbertus/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/ERAlbertus/DeskPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/ERAlbertus/Gearbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/ERAlbertus/ITelephone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/ERAlbertus/MobilePhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxingChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterfaceChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InterfaceChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,10 +18,11 @@
     <session id="-719702763">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -73,7 +62,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="99" />
-    <option name="y" value="965" />
+    <option name="y" value="906" />
     <option name="width" value="1390" />
     <option name="height" value="1254" />
   </component>
@@ -83,8 +72,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -131,10 +120,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="99" y="965" width="1390" height="1254" extended-state="0" />
-    <editor active="true" />
+    <frame x="99" y="906" width="1390" height="1254" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25372022" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25744048" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
