@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7df2c502-d979-47da-b52d-f6c73fa72ab2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../InnerClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InnerClasses/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/src/com/ERAlbertus/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InterfaceChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InterfaceChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interfaces/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,6 +45,7 @@
     <session id="2041328987">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -117,7 +116,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1593" />
+    <option name="x" value="1592" />
     <option name="y" value="614" />
     <option name="width" value="1647" />
     <option name="height" value="1080" />
@@ -202,8 +201,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1593" y="614" width="1647" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="1592" y="614" width="1647" height="1080" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25296688" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
