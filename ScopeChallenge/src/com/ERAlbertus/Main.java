@@ -25,7 +25,7 @@ public class Main {
         // Change your program so that ALL variables (including the scanner
         // instance) are called x.
 
-      
+
         System.out.println("Enter number: ");
         X x = new X(new Scanner(System.in).nextInt());
         x.x();

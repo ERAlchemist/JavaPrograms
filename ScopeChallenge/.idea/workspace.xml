@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4106cf8e-2d8a-4b8b-97a0-91f93b369981" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Scope/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Scope/src/com/example/mypackage/ScopeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/X.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GameTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PackageChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PackageChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PackageDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PackageDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeriesTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeriesTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/AccessModifiers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/ERAlbertus/Accessible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/ERAlbertus/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scope/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scope/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -172,6 +171,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1246" y="906" width="1508" height="1254" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -210,8 +210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
