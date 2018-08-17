@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4106cf8e-2d8a-4b8b-97a0-91f93b369981" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/AccessModifiers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/ERAlbertus/Accessible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/ERAlbertus/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static/Static.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static/src/com/ERAlbertus/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/src/com/ERAlbertus/ExtendedPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/src/com/ERAlbertus/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/src/com/ERAlbertus/SIBTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/src/com/ERAlbertus/SomeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AccessModifiers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AccessModifiers/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Scope/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scope/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
