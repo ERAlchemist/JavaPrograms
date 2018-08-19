@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcd62bfc-2051-42d8-9b6e-a4c99972debb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/SetAndHashSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/ERAlbertus/Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/ERAlbertus/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/ERAlbertus/DogMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/ERAlbertus/HeavenlyBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/ERAlbertus/Labrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/ERAlbertus/SetMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Adventure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Adventure/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Adventure/out/production/Adventure/com/ERAlbertus/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Adventure/out/production/Adventure/com/ERAlbertus/Location.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Adventure/out/production/Adventure/com/ERAlbertus/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Adventure/out/production/Adventure/com/ERAlbertus/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Adventure/src/com/ERAlbertus/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Adventure/src/com/ERAlbertus/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Adventure/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Adventure/src/com/ERAlbertus/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
