@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcd62bfc-2051-42d8-9b6e-a4c99972debb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Adventure/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adventure/Adventure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adventure/src/com/ERAlbertus/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Minimum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Minimum/src/com/ERAlbertus/Minimum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections/com/ERAlbertus/MapProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/com/ERAlbertus/MapProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ERAlbertus/MapProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ERAlbertus/MapProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Adventure/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/out/production/Adventure/com/ERAlbertus/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Adventure/out/production/Adventure/com/ERAlbertus/Location.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/out/production/Adventure/com/ERAlbertus/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Adventure/out/production/Adventure/com/ERAlbertus/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/src/com/ERAlbertus/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Adventure/src/com/ERAlbertus/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adventure/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Adventure/src/com/ERAlbertus/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -214,6 +211,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1636" y="770" width="1508" height="1053" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25307798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
