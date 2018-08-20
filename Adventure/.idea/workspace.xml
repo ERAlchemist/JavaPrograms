@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="935fb8b3-5ed4-484c-bc47-0d237c3bdf8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/ERAlbertus/DwarfPlanet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/ERAlbertus/Moon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/ERAlbertus/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/ERAlbertus/SetChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortedCollections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortedCollections/src/com/ERAlbertus/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortedCollections/src/com/ERAlbertus/StockItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortedCollections/src/com/ERAlbertus/StockList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Collections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Collections/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SetAndHashSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SetAndHashSet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/out/production/SetAndHashSet/com/ERAlbertus/HeavenlyBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SetAndHashSet/out/production/SetAndHashSet/com/ERAlbertus/HeavenlyBody.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/out/production/SetAndHashSet/com/ERAlbertus/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SetAndHashSet/out/production/SetAndHashSet/com/ERAlbertus/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/src/com/ERAlbertus/HeavenlyBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/ERAlbertus/HeavenlyBody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SetAndHashSet/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/ERAlbertus/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
