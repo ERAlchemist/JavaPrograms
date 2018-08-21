@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dce158b3-0d00-4abb-8660-62dddc3079a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/MainChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldFX/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Adventure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Adventure/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SetAndHashSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SetAndHashSet/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SortedCollections/com/ERAlbertus/Basket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SortedCollections/com/ERAlbertus/Basket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ERAlbertus/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ERAlbertus/Basket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ERAlbertus/StockItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ERAlbertus/StockItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ERAlbertus/StockList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ERAlbertus/StockList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -212,8 +207,18 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="737" y="512" width="1508" height="1053" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -227,10 +232,10 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.33812153" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.33812153" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Maven Projects" />

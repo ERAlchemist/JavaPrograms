@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="935fb8b3-5ed4-484c-bc47-0d237c3bdf8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SortedCollections/src/com/ERAlbertus/MainChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldFX/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SetAndHashSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SetAndHashSet/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SortedCollections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortedCollections/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SortedCollections/out/production/SortedCollections/com/ERAlbertus/Basket.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SortedCollections/out/production/SortedCollections/com/ERAlbertus/Basket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SortedCollections/out/production/SortedCollections/com/ERAlbertus/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SortedCollections/out/production/SortedCollections/com/ERAlbertus/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SortedCollections/out/production/SortedCollections/com/ERAlbertus/StockItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SortedCollections/out/production/SortedCollections/com/ERAlbertus/StockItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SortedCollections/out/production/SortedCollections/com/ERAlbertus/StockList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SortedCollections/out/production/SortedCollections/com/ERAlbertus/StockList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SortedCollections/src/com/ERAlbertus/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SortedCollections/src/com/ERAlbertus/Basket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SortedCollections/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SortedCollections/src/com/ERAlbertus/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SortedCollections/src/com/ERAlbertus/StockItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SortedCollections/src/com/ERAlbertus/StockItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SortedCollections/src/com/ERAlbertus/StockList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SortedCollections/src/com/ERAlbertus/StockList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
