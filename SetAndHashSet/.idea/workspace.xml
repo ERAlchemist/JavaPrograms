@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d582b29e-59b7-4a5c-9095-6dbfeb049c31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../HelloWorldFX/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layouts/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Adventure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Adventure/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorldFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorldFX/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SortedCollections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortedCollections/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -18,6 +19,7 @@
     <session id="191900680">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -305,7 +307,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1424" y="918" width="1508" height="1053" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -318,7 +319,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32903227" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33812153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33812153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
