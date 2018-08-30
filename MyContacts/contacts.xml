@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Bobby</first_name>
+	<last_name>Joe</last_name>
+	<phone_number>123456789</phone_number>
+	<notes>fatty</notes>
+</contact>
+<contact>
+	<first_name>jimmy</first_name>
+	<last_name>dean</last_name>
+	<phone_number>9876543212</phone_number>
+	<notes>sausage guy</notes>
+</contact>
+<contact>
+	<first_name>barbie</first_name>
+	<last_name>doll</last_name>
+	<phone_number>987654321</phone_number>
+	<notes>plastic</notes>
+</contact>
+</contacts>
