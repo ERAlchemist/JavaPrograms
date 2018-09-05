@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d88261-112e-45d3-837b-62bd1a70a4ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../InputOutput/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InputOutput/InputOutput.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InputOutput/src/com/ERAlbertus/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InputOutput/src/com/ERAlbertus/Locations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../InputOutput/src/com/ERAlbertus/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/src/com/ERAlbertus/ShiftInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InputOutput/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InputOutput/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InputOutput/out/production/InputOutput/com/ERAlbertus/Locations.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InputOutput/out/production/InputOutput/com/ERAlbertus/Locations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InputOutput/src/com/ERAlbertus/Locations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InputOutput/src/com/ERAlbertus/Locations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyContacts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyContacts/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SceneBuilder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SceneBuilder/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,6 +20,7 @@
     <session id="2060057953">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
@@ -193,7 +192,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
