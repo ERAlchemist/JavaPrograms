@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dcacf83-2ae4-4e5c-bdbb-b509c9803b11" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../JavaNio/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaNio/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AdventureRandom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventureRandom/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNio/out/production/JavaNio/com/ERAlbertus/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNio/out/production/JavaNio/com/ERAlbertus/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNio/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNio/src/com/ERAlbertus/Main.java" afterDir="false" />
     </list>
     <ignored path="InputOutput.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -119,7 +120,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="998" />
-    <option name="y" value="389" />
+    <option name="y" value="388" />
     <option name="width" value="2560" />
     <option name="height" value="1413" />
   </component>
@@ -772,7 +773,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="998" y="389" width="2560" height="1413" extended-state="0" />
+    <frame x="998" y="388" width="2560" height="1413" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info x="568" y="60" width="319" height="624" id="Project" order="0" visible="true" weight="0.13285601" />

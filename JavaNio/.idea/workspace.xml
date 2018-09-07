@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf570dc2-c144-437d-9018-1bb975f459e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AdventureRandom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventureRandom/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../InputOutput NIO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InputOutput NIO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaNio/com/ERAlbertus/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaNio/com/ERAlbertus/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,23 +25,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="dat" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4548" />
+          <entry key="java" value="5436" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4548" />
+          <entry key="JAVA" value="5436" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
@@ -51,13 +53,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="766">
-              <caret line="101" column="61" selection-start-line="101" selection-start-column="61" selection-end-line="101" selection-end-column="61" />
+            <state relative-caret-position="270">
+              <caret line="60" column="44" lean-forward="true" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datacopy.dat">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -84,7 +91,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="998" />
-    <option name="y" value="389" />
+    <option name="y" value="388" />
     <option name="width" value="2560" />
     <option name="height" value="1413" />
   </component>
@@ -170,7 +177,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="998" y="389" width="2560" height="1413" extended-state="0" />
+    <frame x="998" y="388" width="2560" height="1413" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -208,10 +215,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/datacopy.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="766">
-          <caret line="101" column="61" selection-start-line="101" selection-start-column="61" selection-end-line="101" selection-end-column="61" />
+        <state relative-caret-position="270">
+          <caret line="60" column="44" lean-forward="true" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
