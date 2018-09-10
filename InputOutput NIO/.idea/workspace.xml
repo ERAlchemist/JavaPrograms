@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dcacf83-2ae4-4e5c-bdbb-b509c9803b11" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../Paths/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Paths/Examples/Dir1/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Paths/Examples/Dir1/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Paths/Examples/Dir2/Dir3/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Paths/Examples/Dir2/Dir3/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Paths/Examples/Dir2/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Paths/Examples/Dir2/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Paths/Examples/Dir2/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Paths/Paths.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Paths/WorkingDirectoryFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Paths/files/SubdirectoryFile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AdventureRandom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventureRandom/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaNio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNio/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNio/out/production/JavaNio/com/ERAlbertus/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNio/out/production/JavaNio/com/ERAlbertus/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNio/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNio/src/com/ERAlbertus/Main.java" afterDir="false" />
     </list>
     <ignored path="InputOutput.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -119,8 +128,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="998" />
-    <option name="y" value="388" />
+    <option name="x" value="920" />
+    <option name="y" value="1742" />
     <option name="width" value="2560" />
     <option name="height" value="1413" />
   </component>
@@ -773,8 +782,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="998" y="388" width="2560" height="1413" extended-state="0" />
-    <editor active="true" />
+    <frame x="920" y="1742" width="2560" height="1413" extended-state="0" />
     <layout>
       <window_info x="568" y="60" width="319" height="624" id="Project" order="0" visible="true" weight="0.13285601" />
       <window_info id="Structure" order="1" weight="0.25" />
