@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e55ebd28-743e-4698-a2f8-db28f275d350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Directories/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir1/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir1/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir2/Dir3/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir2/Dir3/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir2/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir2/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir2/file3.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir4/file3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/src/com/ERAlbertus/CopyFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/src/com/ERAlbertus/PrintNames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e0992171-2b0b-4851-b607-f3afe1898fd9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileTree/Dir1/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileTree/Dir1/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileTree/Dir2/Dir3/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileTree/Dir2/Dir3/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileTree/Dir2/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileTree/Dir2/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileTree/Dir2/file3.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileTree/Dir4/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileTree/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileTree/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/CopyFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/PrintNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Paths/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Paths/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +25,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="478186434">
+    <session id="-556111676">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.0" value="1" />
@@ -34,22 +34,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="txt" value="12" />
+          <entry key="dat" value="1" />
+          <entry key="java" value="2" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="JAVA" value="2" />
+          <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3000" />
+          <entry key="java" value="3832" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3000" />
+          <entry key="JAVA" value="3832" />
         </counts>
       </usages-collector>
     </session>
@@ -59,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+            <state relative-caret-position="608">
+              <caret line="100" column="67" selection-start-line="100" selection-start-column="67" selection-end-line="100" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,24 +72,72 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examples/Dir1/file1.txt">
+        <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/CopyFiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="323">
+              <caret line="45" column="56" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Examples/Dir1/file2.txt">
+        <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/PrintNames.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="375">
+              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileTree/Dir1/file1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileTree/Dir1/file2.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileTree/Dir2/Dir3/file1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileTree/Dir2/Dir3/file2.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileTree/Dir2/file1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileTree/Dir2/file2.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileTree/Dir2/file3.dat">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -94,22 +145,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/WorkdingDirectory.txt" />
-        <option value="$PROJECT_DIR$/files/Subdirectory.txt" />
-        <option value="$PROJECT_DIR$/Examples/Dir2/file1.txt" />
-        <option value="$PROJECT_DIR$/Examples/Dir2/file3.txt" />
-        <option value="$PROJECT_DIR$/Examples/Dir2/Dir3/file1.txt" />
-        <option value="$PROJECT_DIR$/Examples/Dir2/Dir3/file2.txt" />
-        <option value="$PROJECT_DIR$/Examples/Dir1/file1.txt" />
-        <option value="$PROJECT_DIR$/Examples/Dir1/file2.txt" />
-        <option value="$PROJECT_DIR$/Examples/file1.txt" />
+        <option value="$PROJECT_DIR$/src/com/ERAlbertus/PrintNames.java" />
+        <option value="$PROJECT_DIR$/src/com/ERAlbertus/CopyFiles.java" />
         <option value="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1068" />
-    <option name="y" value="1051" />
+    <option name="y" value="960" />
     <option name="width" value="2560" />
     <option name="height" value="1200" />
   </component>
@@ -125,37 +169,49 @@
         <subPane>
           <expand>
             <path>
-              <item name="Paths" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Paths" type="462c0819:PsiDirectoryNode" />
+              <item name="Directories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Directories" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Paths" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Paths" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Directories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Directories" type="462c0819:PsiDirectoryNode" />
+              <item name="FileTree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Paths" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Paths" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Directories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Directories" type="462c0819:PsiDirectoryNode" />
+              <item name="FileTree" type="462c0819:PsiDirectoryNode" />
               <item name="Dir1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Paths" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Paths" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Directories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Directories" type="462c0819:PsiDirectoryNode" />
+              <item name="FileTree" type="462c0819:PsiDirectoryNode" />
               <item name="Dir2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Paths" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Paths" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Dir2" type="462c0819:PsiDirectoryNode" />
-              <item name="Dir3" type="462c0819:PsiDirectoryNode" />
+              <item name="Directories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Directories" type="462c0819:PsiDirectoryNode" />
+              <item name="FileTree" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Paths" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Paths" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
+              <item name="Directories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Directories" type="462c0819:PsiDirectoryNode" />
+              <item name="FileTree" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir4" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir2Copy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Directories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Directories" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Directories" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Directories" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ERAlbertus" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,12 +225,6 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Examples/Dir1" />
-      <recent name="$PROJECT_DIR$/Examples/Dir2" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -191,7 +241,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ERAlbertus.Main" />
-      <module name="Paths" />
+      <module name="Directories" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -210,16 +260,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e55ebd28-743e-4698-a2f8-db28f275d350" name="Default Changelist" comment="" />
-      <created>1536296208764</created>
+      <changelist id="e0992171-2b0b-4851-b607-f3afe1898fd9" name="Default Changelist" comment="" />
+      <created>1536627643661</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1536296208764</updated>
+      <updated>1536627643661</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1068" y="1051" width="2560" height="1200" extended-state="0" />
+    <frame x="1068" y="960" width="2560" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -232,7 +282,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.3298479" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298479" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298479" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -250,76 +300,63 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/files/SubdirectoryFile.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WorkingDirectoryFile.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Dir2/Dir3/file2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Dir2/Dir3/file1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Dir2/file3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Dir2/file2.txt">
+    <entry file="file://$PROJECT_DIR$/FileTree/file1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Dir2/file1.txt">
+    <entry file="file://$PROJECT_DIR$/FileTree/file2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileTree/Dir4/file3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileTree/Dir2/Dir3/file1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileTree/Dir2/Dir3/file2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileTree/Dir2/file1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileTree/Dir2/file2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileTree/Dir2/file3.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileTree/Dir1/file1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileTree/Dir1/file2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileTree/Dir2/Dir3/file3.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/PrintNames.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="375">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Dir1/file2.txt">
+    <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/CopyFiles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Dir1/file1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/file1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="323">
+          <caret line="45" column="56" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="33" column="51" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        <state relative-caret-position="608">
+          <caret line="100" column="67" selection-start-line="100" selection-start-column="67" selection-end-line="100" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -378,7 +415,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Paths</last-edited>
+          <last-edited>Directories</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
