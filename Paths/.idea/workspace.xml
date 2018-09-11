@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e55ebd28-743e-4698-a2f8-db28f275d350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Directories/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir1/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir1/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir2/Dir3/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir2/Dir3/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir2/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir2/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir2/file3.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/Dir4/file3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/FileTree/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/src/com/ERAlbertus/CopyFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Directories/src/com/ERAlbertus/PrintNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/src/com/ERAlbertus/AnotherThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/src/com/ERAlbertus/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threads/src/com/ERAlbertus/ThreadColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Directories/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Directories/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
