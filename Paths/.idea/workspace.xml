@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e55ebd28-743e-4698-a2f8-db28f275d350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examples/Dir1/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examples/Dir1/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examples/Dir2/Dir3/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examples/Dir2/Dir3/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examples/Dir2/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examples/Dir2/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Examples/Dir2/file3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Paths.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorkingDirectoryFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/SubdirectoryFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdventureRandom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventureRandom/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../InputOutput NIO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InputOutput NIO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,12 +32,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1961" />
+          <entry key="java" value="2997" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1961" />
+          <entry key="JAVA" value="2997" />
         </counts>
       </usages-collector>
     </session>
@@ -59,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+            <state relative-caret-position="495">
+              <caret line="34" column="77" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,8 +96,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="825" />
-    <option name="y" value="542" />
+    <option name="x" value="1068" />
+    <option name="y" value="1051" />
     <option name="width" value="2560" />
     <option name="height" value="1200" />
   </component>
@@ -138,6 +126,19 @@
               <item name="Paths" type="462c0819:PsiDirectoryNode" />
               <item name="Examples" type="462c0819:PsiDirectoryNode" />
               <item name="Dir1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Paths" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Paths" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Paths" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Paths" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir2" type="462c0819:PsiDirectoryNode" />
+              <item name="Dir3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Paths" type="b2602c69:ProjectViewProjectNode" />
@@ -206,7 +207,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="825" y="542" width="2560" height="1200" extended-state="0" />
+    <frame x="1068" y="1051" width="2560" height="1200" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -218,8 +220,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.3298479" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3298479" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298479" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298479" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298479" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -304,8 +306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        <state relative-caret-position="495">
+          <caret line="34" column="77" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

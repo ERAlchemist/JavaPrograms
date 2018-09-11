@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dcacf83-2ae4-4e5c-bdbb-b509c9803b11" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Paths/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Paths/Examples/Dir1/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Paths/Examples/Dir1/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Paths/Examples/Dir2/Dir3/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Paths/Examples/Dir2/Dir3/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Paths/Examples/Dir2/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Paths/Examples/Dir2/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Paths/Examples/Dir2/file3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Paths/Paths.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Paths/WorkingDirectoryFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Paths/files/SubdirectoryFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdventureRandom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdventureRandom/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNio/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6dcacf83-2ae4-4e5c-bdbb-b509c9803b11" name="Default" comment="" />
     <ignored path="InputOutput.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,6 +19,7 @@
     <session id="1122301229">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -783,6 +769,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="920" y="1742" width="2560" height="1413" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info x="568" y="60" width="319" height="624" id="Project" order="0" visible="true" weight="0.13285601" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -803,7 +790,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32964426" />
       <window_info anchor="bottom" id="Application Servers" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="11" visible="true" weight="0.45296443" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.45296443" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
