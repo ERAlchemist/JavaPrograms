@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e55ebd28-743e-4698-a2f8-db28f275d350" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Threads/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/src/com/ERAlbertus/AnotherThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/src/com/ERAlbertus/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/src/com/ERAlbertus/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/Counter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/src/com/ERAlbertus/ThreadColor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Directories/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Directories/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

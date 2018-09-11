@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fba1953-f17c-49f1-b01a-eac90b4b26e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/AnotherThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/Counter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Counter/src/com/ERAlbertus/ThreadColor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Directories/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Directories/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Paths/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Paths/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +48,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
@@ -69,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/ThreadColor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+            <state relative-caret-position="60">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="10" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -205,7 +205,7 @@
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980111" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980111" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -213,7 +213,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3298479" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298479" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298479" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -230,13 +230,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/ThreadColor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/MyRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -258,6 +251,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/ThreadColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="10" selection-end-column="56" />
         </state>
       </provider>
     </entry>
