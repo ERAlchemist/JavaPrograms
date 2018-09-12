@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc25f058-945f-4ebd-94cf-59fec8552757" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Counter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Messages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Messages/Messages.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Directories/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Directories/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Paths/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Paths/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Threads/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/.idea/workspace.xml" afterDir="false" />
@@ -20,6 +20,7 @@
     <session id="-414282829">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -88,8 +89,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1258" />
-    <option name="y" value="203" />
+    <option name="x" value="173" />
+    <option name="y" value="266" />
     <option name="width" value="2560" />
     <option name="height" value="1200" />
   </component>
@@ -180,7 +181,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1258" y="203" width="2560" height="1200" extended-state="0" />
+    <frame x="173" y="266" width="2560" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -194,7 +195,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3298479" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298479" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298479" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
