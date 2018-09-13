@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19726d1c-479a-4598-bd7a-89279533b5d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PoliteWorker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/SharedResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Starvation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Starvation/Starvation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Starvation/src/com/ERAlbertus/ThreadColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Deadlock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Deadlock/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProducerConsumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProducerConsumer/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SayHello/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SayHello/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleTask/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExampleTask/src/sample/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskExample/TaskExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Starvation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Starvation/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,7 +98,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1114" />
-    <option name="y" value="1208" />
+    <option name="y" value="1080" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -183,7 +179,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1114" y="1208" width="1920" height="1080" extended-state="0" />
+    <frame x="1114" y="1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
