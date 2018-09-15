@@ -11,13 +11,11 @@ public class BankAccount {
 
     private Lock lock;
 
-    public BankAccount(String accountNumnber, double initialBalance) {
+    public BankAccount(String accountNumber, double initialBalance) {
         this.accountNumber = accountNumber;
         this.balance = initialBalance;
         this.lock = new ReentrantLock();
     }
-
-// synchronize....
 
 //    public synchronized void deposit(double amount) {
 //        balance += amount;
@@ -27,59 +25,56 @@ public class BankAccount {
 //        balance -= amount;
 //    }
 
-
-    // challenge 4
-//    public void deposit(double amount) {
-//        lock.lock();
-//        try {
-//            balance += amount;
-//        } finally {
-//            lock.unlock();
-//        }
-//    }
-//
-//    public void withdraw(double amount) {
-//        lock.lock();
-//        try {
-//            balance -= amount;
-//        }finally {
-//            lock.unlock();
-//        }
-//    }
-
-    // challenge 5
-    
     public void deposit(double amount) {
-        try{
+
+        boolean status = false;
+
+        try {
             if(lock.tryLock(1000, TimeUnit.MILLISECONDS)) {
                 try {
                     balance += amount;
-                } finally{
+                    status = true;
+                } finally {
                     lock.unlock();
                 }
-            }else {
+            } else {
                 System.out.println("Could not get the lock");
             }
+
         } catch(InterruptedException e) {
             // do something here
         }
+
+        System.out.println("Transaction status = " + status);
     }
 
     public void withdraw(double amount) {
-        try{
+
+        boolean status = false;
+        try {
             if(lock.tryLock(1000, TimeUnit.MILLISECONDS)) {
                 try {
                     balance -= amount;
-                } finally{
+                    status = true;
+                } finally {
                     lock.unlock();
                 }
-            }else {
+            } else {
                 System.out.println("Could not get the lock");
             }
+
         } catch(InterruptedException e) {
             // do something here
         }
+
+        System.out.println("Transaction status = " + status);
     }
 
+    public String getAccountNumber() {
+        return accountNumber;
+    }
 
+    public void printAccountNumber() {
+        System.out.println("Account number = " + accountNumber);
+    }
 }
