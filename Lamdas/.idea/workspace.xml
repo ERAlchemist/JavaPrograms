@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a8641fd-1a27-4c30-97b0-ca32de4bb3e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Employees/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Employees/Employees.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Employees/src/com/ERAlbertus/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Streams/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Streams/Streams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Streams/src/com/ERAlbertus/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Streams/src/com/ERAlbertus/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ButtonFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ButtonFX/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ConcurrencyChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConcurrencyChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ConcurrencyChallenges/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConcurrencyChallenges/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Employees/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Employees/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="141" column="9" lean-forward="true" selection-start-line="123" selection-start-column="7" selection-end-line="145" selection-end-column="9" />
+            <state relative-caret-position="61">
+              <caret line="125" lean-forward="true" selection-start-line="123" selection-start-column="7" selection-end-line="145" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#doStringStuff#0;class#Main#0" />
@@ -87,7 +88,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1342" />
-    <option name="y" value="1223" />
+    <option name="y" value="1222" />
     <option name="width" value="1612" />
     <option name="height" value="876" />
   </component>
@@ -185,7 +186,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1342" y="1223" width="1612" height="876" extended-state="0" />
+    <frame x="1342" y="1222" width="1612" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -225,8 +226,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="141" column="9" lean-forward="true" selection-start-line="123" selection-start-column="7" selection-end-line="145" selection-end-column="9" />
+        <state relative-caret-position="61">
+          <caret line="125" lean-forward="true" selection-start-line="123" selection-start-column="7" selection-end-line="145" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#doStringStuff#0;class#Main#0" />
