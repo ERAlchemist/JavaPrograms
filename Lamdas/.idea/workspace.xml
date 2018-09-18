@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a8641fd-1a27-4c30-97b0-ca32de4bb3e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Streams/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Streams/Streams.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Streams/src/com/ERAlbertus/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Streams/src/com/ERAlbertus/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ButtonFX/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ButtonFX/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConcurrencyChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConcurrencyChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConcurrencyChallenges/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConcurrencyChallenges/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Employees/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Employees/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1a8641fd-1a27-4c30-97b0-ca32de4bb3e7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +13,7 @@
     <session id="1994262261">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
