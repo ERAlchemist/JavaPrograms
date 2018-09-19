@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e557d605-d3c4-4a60-8e4d-590fa1a638c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../RegularExpressions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RegularExpressionsChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RegularExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RegularExpressions/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Streams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Streams/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,7 +61,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1639" />
+    <option name="x" value="1638" />
     <option name="y" value="1190" />
     <option name="width" value="1612" />
     <option name="height" value="876" />
@@ -123,7 +125,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1639" y="1190" width="1612" height="876" extended-state="0" />
+    <frame x="1638" y="1190" width="1612" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
