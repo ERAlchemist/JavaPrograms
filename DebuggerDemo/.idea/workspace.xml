@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c693c6b3-2b59-4f65-8dca-903e0009a8bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Banking/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Banking/src/com/ERAlbertus/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Banking/src/com/ERAlbertus/BankAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Banking/src/com/ERAlbertus/BankAccountTestParameterized.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DebuggerDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/StringUtilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LamdaChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LamdaChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RegularExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RegularExpressions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RegularExpressionsChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RegularExpressionsChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RegularExpressionsChallenge/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RegularExpressionsChallenge/src/com/ERAlbertus/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Streams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Streams/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitChallenge/JunitChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitChallenge/src/com/ERAlbertus/Utilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JunitChallenge/src/com/ERAlbertus/UtilitiesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Banking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Banking/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,6 +20,7 @@
     <session id="1810321028">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="2" />
