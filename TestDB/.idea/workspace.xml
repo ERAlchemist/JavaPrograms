@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15afc72e-6786-4981-85aa-5929d0d720a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_23_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Music/.idea/libraries/sqlite_jdbc_3_23_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Music/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Music/Music.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Music/src/com/ERAlbertus/model/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Music/src/com/ERAlbertus/model/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Music/src/com/ERAlbertus/model/Datasource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Music/src/com/ERAlbertus/model/Song.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JunitChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,6 +23,7 @@
     <session id="-1998151286">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -147,12 +154,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="888" y="526" width="1920" height="1053" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
@@ -160,7 +166,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32928178" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32928178" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32928178" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
