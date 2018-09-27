@@ -11,7 +11,7 @@ public class Datasource {
     //    public static final String CONNECTION_STRING = "jdbc:sqlite:D:\\databases\\" + DB_NAME;
     public static final String CONNECTION_STRING = "jdbc:sqlite:/home/e/Desktop/JavaPrograms/Music/" + DB_NAME;
 
-    public
+
     public static final String TABLE_ALBUMS = "albums";
     public static final String COLUMN_ALBUM_ID = "_id";
     public static final String COLUMN_ALBUM_NAME = "name";
@@ -389,7 +389,7 @@ public class Datasource {
         }
     }
 
-    private void insertSong(String title, String artist, String album, int track) {
+    public void insertSong(String title, String artist, String album, int track) {
 
         try {
             conn.setAutoCommit(false);
@@ -406,7 +406,7 @@ public class Datasource {
                 throw new SQLException("The song insert failed");
             }
 
-        } catch(SQLException e) {
+        } catch(Exception e) {
             System.out.println("Insert song exception: " + e.getMessage());
             try {
                 System.out.println("Performing rollback");

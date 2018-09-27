@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea9fed27-6f58-4705-bb63-8c6546d192f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_23_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Music.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/model/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/model/Artist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/model/Datasource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/model/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ERAlbertus/model/SongArtist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JunitChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JunitChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDB/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music.db" beforeDir="false" afterPath="$PROJECT_DIR$/music.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Music/com/ERAlbertus/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Music/com/ERAlbertus/model/Datasource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ERAlbertus/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ERAlbertus/model/Datasource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ERAlbertus/model/Datasource.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,12 +37,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8148" />
+          <entry key="java" value="8303" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8148" />
+          <entry key="JAVA" value="8303" />
         </counts>
       </usages-collector>
     </session>
@@ -58,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="59" column="56" selection-start-line="59" selection-start-column="56" selection-end-line="59" selection-end-column="56" />
+              <caret line="49" column="64" lean-forward="true" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/model/Datasource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="426" column="1" selection-start-line="426" selection-start-column="1" selection-end-line="426" selection-end-column="1" />
+            <state relative-caret-position="57">
+              <caret line="408" column="16" lean-forward="true" selection-start-line="408" selection-start-column="16" selection-end-line="408" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,8 +143,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="888" />
-    <option name="y" value="694" />
+    <option name="x" value="1074" />
+    <option name="y" value="922" />
     <option name="width" value="1920" />
     <option name="height" value="885" />
   </component>
@@ -244,7 +239,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="888" y="694" width="1920" height="885" extended-state="0" />
+    <frame x="1074" y="922" width="1920" height="885" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -313,7 +308,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="59" column="56" selection-start-line="59" selection-start-column="56" selection-end-line="59" selection-end-column="56" />
+          <caret line="49" column="64" lean-forward="true" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -322,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ERAlbertus/model/Datasource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="426" column="1" selection-start-line="426" selection-start-column="1" selection-end-line="426" selection-end-column="1" />
+        <state relative-caret-position="57">
+          <caret line="408" column="16" lean-forward="true" selection-start-line="408" selection-start-column="16" selection-end-line="408" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
